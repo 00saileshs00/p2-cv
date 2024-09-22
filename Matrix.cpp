@@ -7,6 +7,7 @@
 // EFFECTS:  Initializes *mat as a Matrix with the given width and height,
 //           with all elements initialized to 0.
 void Matrix_init(Matrix* mat, int width, int height) {
+  int test = 1;
   assert(false); // TODO Replace with your implementation!
 }
 
