@@ -7,6 +7,7 @@
 // EFFECTS:  Initializes the Image with the given width and height, with
 //           all pixels initialized to RGB values of 0.
 void Image_init(Image* img, int width, int height) {
+  //IS THIS REAL
   assert(false); // TODO Replace with your implementation!
 }
 
